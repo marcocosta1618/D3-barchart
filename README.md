@@ -8,3 +8,7 @@ This document is hosted on [GitHub-pages](https://marcocosta1618.github.io/D3-ba
 
 ![D3](https://img.shields.io/badge/D3.js-fff.svg?&logo=d3.js&logoColor=f5854b)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-cc6699.svg?&logo=sass&logoColor=white)&nbsp;
+
+---
+
+![D3-barchart png(75%)](https://user-images.githubusercontent.com/78434326/144266250-1fbb4313-19a5-40bb-ae1b-55cd44424df6.png)
